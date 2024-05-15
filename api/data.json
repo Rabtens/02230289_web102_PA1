@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Product 1",
+    "price": 19.99,
+    "description": "Description of Product 1"
+  },
+  {
+    "id": "3",
+    "name": "Product 3",
+    "price": 39.99,
+    "description": "Description of Product 3"
+  },
+  {
+    "name": "Product sarp",
+    "price": 19.99,
+    "description": "Ani product dhi sarp en",
+    "id": "4"
+  },
+  {
+    "id": "4",
+    "name": "zim tak",
+    "price": 5,
+    "description": "Instant Noodle by BHUTAN"
+  }
+]
